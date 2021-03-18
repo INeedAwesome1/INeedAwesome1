@@ -1,0 +1,20 @@
+main: com.ina1.Gr8
+version: 0.1.0
+author: Mattis Kjelleras
+name: Gr8
+website: http://www.gr8.site/
+commands: 
+  unmute:
+    description: use it to unmute a player
+  mute:
+    description: mute a player
+  heal:
+    description: heal others or yourself
+  gr8:
+    description: help page
+  vanish:
+    description: hide from others
+    aliases: v
+  unvanish:
+    description: show you to others
+    aliases: uv
